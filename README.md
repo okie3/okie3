@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Finn
-- 👀 I’m interested in robot engineering and graphic desigh
+- 👀 I’m interested in robot engineering and graphic design
 - 🌱 I’m currently learning python html and java on the side
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me finnegan.hamann@gmail.com
